@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  background: hsl(212, 45%, 89%);
+  font-family: "Outfit", sans-serif;
+}
+
+:root {
+  box-sizing: border-box;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.card {
+  background: white;
+  width: 270px;
+  padding: 1rem;
+  border-radius: 20px;
+  margin: 100px auto;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+p {
+  color: hsl(220, 15%, 55%);
+  font-size: 15px;
+  font-weight: 400;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 1.4rem;
+}
+
+/*# sourceMappingURL=style.css.map */
